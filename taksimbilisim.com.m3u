@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Alanya TV
+http://stream2.taksimbilisim.com:1935/alanyatv/bant1/playlist.m3u8
+#EXTINF:-1,BTV (Ordu) 
+http://stream.taksimbilisim.com:1935/btv/bant1/playlist.m3u8
+#EXTINF:-1,Cay TV 
+http://stream2.taksimbilisim.com:1935/caytv/bant1/playlist.m3u8
+#EXTINF:-1,DRT TV (Denizli)
+http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/playlist.m3u8
+#EXTINF:-1,Ýçel TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+#EXTINF:-1,Kanal 3 (Afyonkarahisar)
+http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
+#EXTINF:-1,Kanal 33
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+#EXTINF:-1,Kanal Urfa
+http://stream.taksimbilisim.com:1935/kanalurfa/bant1/playlist.m3u8
+#EXTINF:-1,TV 41
+http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+#EXTINF:-1,TV 52
+http://stream.taksimbilisim.com:1935/tv52/bant1/playlist.m3u8
